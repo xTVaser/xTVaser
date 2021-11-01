@@ -1,4 +1,6 @@
 My current projects are focused around solving problems or making improvements in my areas of interest.  Some notable ones include:
+- Assisting in the Decompilation / Recompilation on the Jak & Daxter games
+  - https://github.com/water111/jak-project
 - PS2 Emulation and TASing
   - Currently maintaining the TAS tools in PCSX2 - https://github.com/PCSX2/pcsx2
 - Speedrunning
